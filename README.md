@@ -1,6 +1,6 @@
 # Live Project C\# ASP.Net MVC
 
-##Introduction
+## Introduction
 
 This was a two week live project at the tech academy where I worked other software developers to build an interactive website for a theater company to manage its website content without needing any technical knowledge.
 The site included multiple areas to manage admin, subscriber, and general public needs as well as included information on the current and past productions, cast members, rental requests, and blogs.
@@ -136,7 +136,7 @@ namespace TheatreCMS3.Areas.Blog.Controllers
 
 <h3> Styling Index, Edit, Create, Details, and Delete pages. </h3>
 
-These stories involed styling the CRUD pages according provided layout and color schema a. One such instance was that the index page [code shown here](#index) required that 
+These stories involed styling the CRUD pages according provided layout and color schema. One such instance was that the index page [code shown here](#index) required that 
 each BlogPost have its own container where the photo for the BlogPost is on the left and the information about the BlogPost on the right. 
 
 ![readme_img](https://user-images.githubusercontent.com/74551278/111548215-fbac6200-873f-11eb-8b40-da6c0bd46b6a.PNG)
@@ -144,5 +144,8 @@ each BlogPost have its own container where the photo for the BlogPost is on the 
 
 ## Final take away and other skills learned
 
-ime?
-How can you apply what you've learned on the Live Project to your career as a software developer?
+This project was fun, engaging, and provided great real world experience. Through doing this I was able to: 
+*Increase my knowledgebase of programming languages and concepts used.
+*Improve the project flow by communicating with the team about roadblocks and other challenges.
+*Learn new efficiencies from other developers by observing their workflow and asking questions.
+*Focusing on writing clean efficient code.
