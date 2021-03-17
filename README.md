@@ -136,12 +136,10 @@ namespace TheatreCMS3.Areas.Blog.Controllers
 
 <h3> Styling Index, Edit, Create, Details, and Delete pages. </h3>
 
-These stories involed styling the CRUD pages according provided color schema and layout provided. One instance was that the index page [code shown here](#index) required that 
+These stories involed styling the CRUD pages according provided layout and color schema a. One such instance was that the index page [code shown here](#index) required that 
 each BlogPost have its own container where the photo for the BlogPost is on the left and the information about the BlogPost on the right. 
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![readme_img](https://user-images.githubusercontent.com/74551278/111548215-fbac6200-873f-11eb-8b40-da6c0bd46b6a.PNG)
 
 
 ## Final take away and other skills learned
