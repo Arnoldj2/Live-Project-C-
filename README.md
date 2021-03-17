@@ -32,9 +32,9 @@ This story required me to change the nav link into a Bootstrap dropdown using ra
 
 ```
 
-<h3>Create entity model for BlogPosts and CRUD pages</h3>
+<h3>Create an entity model for BlogPost area and CRUD pages</h3>
 
-There were 2 parts to this story.  For the First part, I had to create a model, and then for the second part I had to  create CRUD pages for it. The first part was accomplished by using a code first workflow.
+There were 2 parts to this story.  For the First part, I had to create a model, and then for the second part I had to create CRUD pages for it. The first part was accomplished by using a code first workflow.
 I built the model first then updated the database to create a table in the database.
 
 <h4>Model</h4>
@@ -134,12 +134,17 @@ namespace TheatreCMS3.Areas.Blog.Controllers
 
 ## Front End Stories
 
-Production CRUD Pages Part 1: Create & Edit Styling
+<h3> Styling Index, Edit, Create, Details, and Delete pages. </h3>
 
-Rental CRUD Pages Part 3: Index Page
+These stories involed styling the CRUD pages according provided color schema and layout provided. One instance was that the index page [code shown here](#index) required that 
+each BlogPost have its own container where the photo for the BlogPost is on the left and the information about the BlogPost on the right. 
 
 
-How was your experience working on a team of software developers?
-What did you learn from working on a small piece of a larger project in the middle of its lifecycle?
-What was your final take away from the Live Project? What would you do differently next time?
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+## Final take away and other skills learned
+
+ime?
 How can you apply what you've learned on the Live Project to your career as a software developer?
