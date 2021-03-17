@@ -38,7 +38,9 @@ There were 2 parts to this story.  For the First part, I had to create a model, 
 I built the model first then updated the database to create a table in the database.
 
 <h4>Model</h4>
+
 ```
+
 namespace TheatreCMS3.Areas.Blog.Models
 {
     public class BlogPost
@@ -54,12 +56,15 @@ namespace TheatreCMS3.Areas.Blog.Models
     
     }
 }
+
 ```
 
 After the model was created i used Visual Studio and EntityFramework to create the controller along with the Index, Edit, Create, Details, and Delete pages.
 
 <h4>Controller</h4>
+
 ```
+
 namespace TheatreCMS3.Areas.Blog.Controllers
 {
     public class BlogPostController : Controller
@@ -95,6 +100,7 @@ namespace TheatreCMS3.Areas.Blog.Controllers
 <h4>Index</h4>
 
 ```
+
 <h1 class="blogpost-h1">Index</h1>
 <p class="text-center">
   @Html.ActionLink("Create New", "Create")
@@ -124,9 +130,7 @@ namespace TheatreCMS3.Areas.Blog.Controllers
 
 }
 
-
 ```
-
 
 ## Front End Stories
 
