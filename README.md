@@ -145,7 +145,7 @@ each BlogPost have its own container where the photo for the BlogPost is on the 
 ## Final take away and other skills learned
 
 This project was fun, engaging, and provided great real world experience. Through doing this I was able to: 
-*Increase my knowledgebase of programming languages and concepts used.
-*Improve the project flow by communicating with the team about roadblocks and other challenges.
-*Learn new efficiencies from other developers by observing their workflow and asking questions.
-*Focusing on writing clean efficient code.
+* Increase my knowledgebase of programming languages and concepts used.
+* Improve the project flow by communicating with the team about roadblocks and other challenges.
+* Learn new efficiencies from other developers by observing their workflow and asking questions.
+* Focusing on writing clean efficient code.
