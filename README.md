@@ -148,4 +148,4 @@ This project was fun, engaging, and provided great real world experience. Throug
 * Increase my knowledgebase of programming languages and concepts used.
 * Improve the project flow by communicating with the team about roadblocks and other challenges.
 * Learn new efficiencies from other developers by observing their workflow and asking questions.
-* Focusing on writing clean efficient code.
+* Focus on writing clean efficient code.
