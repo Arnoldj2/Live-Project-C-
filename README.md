@@ -2,12 +2,12 @@
 
 ## Introduction
 
-This was a two week live project at the tech academy where I worked other software developers to build an interactive website for a theater company to manage its website content without needing any technical knowledge.
+This was a two week live project at the tech academy where I worked with other software developers to build an interactive website for a theater company to manage its website content without needing any technical knowledge.
 The site included multiple areas to manage admin, subscriber, and general public needs as well as included information on the current and past productions, cast members, rental requests, and blogs.
 
 The project was built using ASP.Net MVC and Entity Framework in C# with Bootstrap styling. We used Visual Studio as the IDE with Azure Devops and Agile/Scrum methodologies to develop this project.
 
-This was challenging and rewarding experience being able to work with other software developers during the lifecycle of this project . I worked on several back end and front end stories all with varying degrees of difficulty. 
+This was a challenging and rewarding experience being able to work with other software developers during the lifecycle of this project . I worked on several back end and front end stories all with varying degrees of difficulty. 
 Below are descriptions those stories with a few code snippets.
 
 
